@@ -1,0 +1,3 @@
+com\hotel\management\auth\AuthControllerTest.class
+com\hotel\management\HotelManagementApplicationTests.class
+com\hotel\management\booking\BookingServiceTest.class
